@@ -5,8 +5,8 @@ from io import BytesIO
 import re
 
 def lexer(file):
+    assert file[-4:] == 'GIAA', "Unsupported File Extension"
     lexer = ' ['
-   
     process = open(file, 'r').read()
     value = tokenize(BytesIO(process.encode('utf-8')).readline)
     listvalue = []
@@ -44,5 +44,5 @@ def lexer(file):
     
 if __name__ == "__main__":
 
-    fileName = sys.argv[1]
-    tokens = lexer(fileName)   
+    file = sys.argv[1]
+    tokens = lexer(file)   
