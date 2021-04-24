@@ -1,0 +1,13 @@
+begin
+{
+ int temp;
+ int x=7;
+ temp = 1;
+ while(x > 0)
+{
+  temp = temp * x;
+  x = x - 1;
+}
+print temp;
+}
+end

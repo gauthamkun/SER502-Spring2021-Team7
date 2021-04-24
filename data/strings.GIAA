@@ -1,0 +1,11 @@
+begin
+{
+int x = 7;
+string a=hello;
+string b=world;
+
+print a;
+print b;
+print x;
+}
+end

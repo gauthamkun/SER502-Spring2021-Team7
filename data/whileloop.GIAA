@@ -1,0 +1,16 @@
+begin
+{
+	int x=2;
+	int y=3;
+	int z=0;
+	while(x != 10)
+	{
+	y = y * 2;
+	x = x + 2;
+	z = x * y;
+	}
+	print x;
+	print y;
+	print z;
+}
+end

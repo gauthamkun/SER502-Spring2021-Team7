@@ -1,0 +1,16 @@
+begin
+{
+bool flag=true;
+int x=28;
+if (x>= 10)
+{
+x=x+2;
+}
+else
+{
+flag=false;
+}
+print x;
+print flag;
+}
+end

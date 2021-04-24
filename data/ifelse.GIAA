@@ -1,0 +1,18 @@
+begin
+{
+
+int x;
+int y;
+x = 7;
+y = 28;
+if(x != y) 
+{
+print x;
+}
+else
+{
+print y;
+}
+
+}
+end

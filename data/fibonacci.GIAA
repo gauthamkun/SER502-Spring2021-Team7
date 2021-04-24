@@ -1,0 +1,17 @@
+begin
+{
+int a = 0;
+int b = 1;
+int counter = 0;
+
+while (counter < 8)
+{
+    int temp = a;
+    a = b;
+    b = temp + b;
+    print a;
+    counter = counter + 1;
+}
+
+}
+end
