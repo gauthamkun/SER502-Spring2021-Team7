@@ -25,7 +25,7 @@
 
 - Clone the git repository into your local machine
 - Install python 3.9 and SWI-Prolog 8.3.22 on your local machine
-- SWI-Prolog Download ([Link 🚀](https://www.swi-prolog.org/download/stable/))
+- SWI-Prolog Download ([Link 🚀](https://www.swi-prolog.org/Download.html))
 - Python3 Download ([Link 🚀](https://www.python.org/downloads/))
 - Sample test programs are saved in the 'data' folder with .GIAA extension
 - Open the terminal and execute the below command
