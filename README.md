@@ -5,9 +5,9 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-#### GIAA is a simple programming language developed to compute trivial arithmetic operations, conditions, and loops.
+### GIAA is a simple programming language developed to compute trivial arithmetic operations, conditions, and loops.
 
-##### Team Members:
+#### Team Members:
 1. 👨🏻‍💻 Abhishek Mohabe
 2. 👩🏻‍💻 Apoorva Giliyal 
 3. 👩🏻‍💻 Itiparna Mahala
